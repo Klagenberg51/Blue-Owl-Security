@@ -1,0 +1,36 @@
+.container {
+    background-image: url(security.jpeg);
+    padding: 15px;
+    height: 100%;
+    background-color: rgba(19, 31, 105, 255);
+    text-align: center;
+    font-size: 10px;
+    color: white;
+}
+
+.container h1 {
+    padding: 50px;
+}
+
+.container h2 {
+    padding: 20px;
+    width: 75%;
+}
+
+.container h3 {
+    padding: 20px;
+    width: 75%;
+}
+
+.container .logo-foto {
+    background-color: rgb(20, 31, 106);
+    ;
+}
+
+.container .logo-foto .title {
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+    vertical-align: middle;
+    height: 80px;
+    display: inline-block;
+}
